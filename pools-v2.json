@@ -1844,10 +1844,19 @@
     "link": "https://www.dmnd.work/"
   },
   {
-    "id": 172,
+       "id": 172,
     "name": "TrustPool",
     "addresses": [],
     "tags": ["/trustpool/"],
     "link": "https://trustpool.cc"
+  },
+  {
+    "id": 173,
+    "name": "BITSTONKS",
+    "addresses": [],
+    "tags": [
+      "/BITSTONKS/"
+    ],
+    "link": "https://soloblock.ai"
   }
 ]
